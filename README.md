@@ -169,13 +169,13 @@
 
  시그너스를 배신하고 블랙윙의 수하가 된 변신술사들이 메이플 월드에 잠입했다는 소식을 듣고, **시그너스 기사단을 파견**하여 메이플 월드에 잠입한 변신술사들을 찾으라는 지령을 내립니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9312e6aa-302f-469f-80e2-e38f833fbb6d/Untitled.png)
+![Untitled](https://user-images.githubusercontent.com/102223636/192308831-dfd00032-6ac0-4ff2-86ce-dad0b3d50901.png)
 
 ### ✔️ 변신술사
 
  한 때 시그너스의 일원이었지만 반복된 훈련과 따분한 일상에 지쳐, 다이나믹한 **블랙윙의 편**이 되기로 결심합니다. 자신을 쫓아오는 옛 동료의 눈을 피해 **메이플 월드에 숨어든 채로** 블랙윙이 찾아올 때까지 기다립니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a641c45b-724b-4e32-a865-00f0fc928175/Untitled.png)
+![Untitled (1)](https://user-images.githubusercontent.com/102223636/192308861-208bac33-1445-4e3d-93ce-c7cbeb97f06d.png)
 
 ### ✔️ 시그너스 단원
 
