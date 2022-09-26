@@ -114,7 +114,7 @@
 
 **⑥** 모든 변신술사가 발각되면, 시그너스 단원들의 승리! 반대로 하나라도 찾아내지 못한다면 변신술사들의 승리가 됩니다.
 
-![게임 내부 워크플로우](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5f55203-4c69-4cdb-8bac-236ae29a4c3f/Untitled.png)
+![변신술사를 찾아라 Work Flow](https://user-images.githubusercontent.com/102223636/192307112-aa29e895-a8f3-4d2e-8823-c51267269591.png)
 
 게임 내부 워크플로우
 
