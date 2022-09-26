@@ -211,11 +211,11 @@
 
 - 도망자에 비해서 상대적으로 조금 더 높은 점프력을 가지게 됩니다.
 
-![피격당하기 전](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6fb5d667-8468-4c52-bfcb-28d9f0d4b6fa/%EB%B3%80%ED%95%98%EA%B8%B0%EC%A0%84.png)
+![변하기전](https://user-images.githubusercontent.com/102223636/192307840-97e29417-39c3-4966-a336-8591af44ed62.png)
 
 피격당하기 전
 
-![피격당한 후](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d6ab8416-90b3-49d6-8279-7bbeaa268f7d/%EB%B3%80%ED%95%9C_%ED%9B%84.png)
+![변한 후](https://user-images.githubusercontent.com/102223636/192307820-8848df05-ca1c-47ef-83d9-5db9efd3efee.png)
 
 피격당한 후
 
@@ -227,7 +227,7 @@
 - 플레이 도중 V키를 누르면 **해당 자리에 고정**하게 됩니다.
     - ex) 공중에 점프한 상태로 V키를 누르면 공중에서 고정.
     
-    ![사물로 변한 모습.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25fd9358-36c2-4f61-b249-7bf9f6c0c082/%EC%82%AC%EB%AC%BC%EB%A1%9C_%EB%B3%80%ED%95%9C_%EB%AA%A8%EC%8A%B5.png)
+    ![사물로 변한 모습](https://user-images.githubusercontent.com/102223636/192307789-d8526c8b-bf76-461b-bd14-61feb40a4c23.png)
     
 
 ## 🎮인터페이스 특징
