@@ -1,7 +1,5 @@
 # Nexon-Supporters-Hackathon
-### **YouTube Url**
----
-https://youtu.be/4ZQBIrbsEo8
+### **YouTube Url** : https://youtu.be/4ZQBIrbsEo8
 ---
 
 
